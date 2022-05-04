@@ -1,0 +1,99 @@
+2021-12-10 21:04:55.436 MSK [INFO    ] prototype_multi Start
+2021-12-10 21:04:55.441 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:04:55.441 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:04:55.442 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:04:55.442 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:05:39.339 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:05:39.340 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:05:39.342 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:05:39.471 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:05:39.472 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:05:39.473 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:05:39.603 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:05:39.604 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:05:39.606 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:05:42.973 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:05:42.973 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:05:42.974 MSK [INFO    ] prototype_multi Round 0 end, Hash rate 2103.794 kH/s
+2021-12-10 21:05:42.975 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:06:27.193 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:06:27.194 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:06:27.196 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:06:27.806 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:06:27.806 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:06:27.808 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:06:28.199 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:06:28.199 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:06:28.201 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:06:32.016 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:06:32.016 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:06:32.016 MSK [INFO    ] prototype_multi Round 1 end, Hash rate 1898.436 kH/s
+2021-12-10 21:06:32.018 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:07:16.302 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:07:16.303 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:07:16.305 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:07:16.916 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:07:16.916 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:07:16.918 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:07:17.922 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:07:17.922 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:07:17.924 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:07:22.042 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:07:22.042 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:07:22.043 MSK [INFO    ] prototype_multi Round 2 end, Hash rate 1823.240 kH/s
+2021-12-10 21:07:22.044 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:08:06.199 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:08:06.199 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:08:06.202 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:08:06.583 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:08:06.583 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:08:06.585 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:08:08.369 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:08:08.370 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:08:08.371 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:08:12.185 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:08:12.185 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:08:12.186 MSK [INFO    ] prototype_multi Round 3 end, Hash rate 1789.507 kH/s
+2021-12-10 21:08:12.187 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:08:55.666 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:08:55.666 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:08:55.669 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:08:56.305 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:08:56.305 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:08:56.307 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:08:58.404 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:08:58.404 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:08:58.406 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 21:09:02.038 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 21:09:02.038 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 21:09:02.038 MSK [INFO    ] prototype_multi Round 4 end, Hash rate 1790.937 kH/s
+2021-12-10 21:09:02.040 MSK [INFO    ] prototype_multi child process calling self.run()
+...
+2021-12-10 22:05:09.494 MSK [INFO    ] prototype_multi Round 68 end, Hash rate 1437.505 kH/s
+2021-12-10 22:05:09.496 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 22:05:42.987 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 22:05:42.987 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 22:05:42.989 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 22:05:48.081 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 22:05:48.082 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 22:05:48.083 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 22:05:49.730 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 22:05:49.730 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 22:05:49.732 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 22:06:01.394 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 22:06:01.394 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 22:06:01.395 MSK [INFO    ] prototype_multi Round 69 end, Hash rate 1426.062 kH/s
+2021-12-10 22:06:01.396 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 22:06:34.476 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 22:06:34.476 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 22:06:34.479 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 22:06:40.077 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 22:06:40.078 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 22:06:40.079 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 22:06:42.085 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 22:06:42.085 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 22:06:42.087 MSK [INFO    ] prototype_multi child process calling self.run()
+2021-12-10 22:06:50.444 MSK [INFO    ] prototype_multi process shutting down
+2021-12-10 22:06:50.445 MSK [INFO    ] prototype_multi process exiting with exitcode 0
+2021-12-10 22:06:50.445 MSK [INFO    ] prototype_multi Success "Начальное значение![JBYW" hash: 00000000331cb4111b0fb7fff9a9014aa45376e25b59516ff57e0789f86d98ce Hash rate 1933.423 kH/s
+2021-12-10 22:06:50.446 MSK [INFO    ] prototype_multi process shutting down

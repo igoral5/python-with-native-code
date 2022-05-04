@@ -1,2 +1,3 @@
-# python-with-native-code
-Python with native code
+# Python with native code
+
+Использование в Python C кода

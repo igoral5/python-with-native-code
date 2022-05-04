@@ -1,0 +1,20 @@
+2021-12-11 10:01:05.942 MSK [INFO    ] prototype Start
+2021-12-11 10:04:00.695 MSK [INFO    ] prototype Round 0 end, Hash rate 572.237 kH/s
+2021-12-11 10:07:01.769 MSK [INFO    ] prototype Round 1 end, Hash rate 552.262 kH/s
+2021-12-11 10:10:03.439 MSK [INFO    ] prototype Round 2 end, Hash rate 550.447 kH/s
+2021-12-11 10:13:05.254 MSK [INFO    ] prototype Round 3 end, Hash rate 550.012 kH/s
+2021-12-11 10:16:15.061 MSK [INFO    ] prototype Round 4 end, Hash rate 526.850 kH/s
+2021-12-11 10:19:40.015 MSK [INFO    ] prototype Round 5 end, Hash rate 487.915 kH/s
+2021-12-11 10:22:45.086 MSK [INFO    ] prototype Round 6 end, Hash rate 540.334 kH/s
+2021-12-11 10:25:55.408 MSK [INFO    ] prototype Round 7 end, Hash rate 525.425 kH/s
+...
+2021-12-11 13:20:10.408 MSK [INFO    ] prototype Round 62 end, Hash rate 529.180 kH/s
+2021-12-11 13:23:19.590 MSK [INFO    ] prototype Round 63 end, Hash rate 528.592 kH/s
+2021-12-11 13:26:29.274 MSK [INFO    ] prototype Round 64 end, Hash rate 527.192 kH/s
+2021-12-11 13:29:39.299 MSK [INFO    ] prototype Round 65 end, Hash rate 526.248 kH/s
+2021-12-11 13:32:48.783 MSK [INFO    ] prototype Round 66 end, Hash rate 527.748 kH/s
+2021-12-11 13:35:58.636 MSK [INFO    ] prototype Round 67 end, Hash rate 526.725 kH/s
+2021-12-11 13:39:08.036 MSK [INFO    ] prototype Round 68 end, Hash rate 527.982 kH/s
+2021-12-11 13:42:17.239 MSK [INFO    ] prototype Round 69 end, Hash rate 528.533 kH/s
+2021-12-11 13:45:26.339 MSK [INFO    ] prototype Round 70 end, Hash rate 528.820 kH/s
+2021-12-11 13:48:02.657 MSK [INFO    ] prototype Success "Начальное значение![JBYW" hash: 00000000331cb4111b0fb7fff9a9014aa45376e25b59516ff57e0789f86d98ce Hash rate 527.490 kH/s

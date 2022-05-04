@@ -1,0 +1,80 @@
+2021-12-10 22:20:13.037 MSK [INFO    ] blockchain Start
+2021-12-10 22:20:13.037 MSK [DEBUG   ] blockchain Start thread 1, round 0
+2021-12-10 22:20:13.038 MSK [DEBUG   ] blockchain Start thread 2, round 0
+2021-12-10 22:20:13.038 MSK [DEBUG   ] blockchain Start thread 3, round 0
+2021-12-10 22:20:13.038 MSK [DEBUG   ] blockchain Start thread 4, round 0
+2021-12-10 22:21:00.147 MSK [DEBUG   ] blockchain Stop thread 4, round 0
+2021-12-10 22:21:00.147 MSK [DEBUG   ] blockchain Start thread 1, round 1
+2021-12-10 22:21:00.321 MSK [DEBUG   ] blockchain Stop thread 3, round 0
+2021-12-10 22:21:00.321 MSK [DEBUG   ] blockchain Start thread 2, round 1
+2021-12-10 22:21:00.343 MSK [DEBUG   ] blockchain Stop thread 2, round 0
+2021-12-10 22:21:00.343 MSK [DEBUG   ] blockchain Start thread 3, round 1
+2021-12-10 22:21:00.499 MSK [DEBUG   ] blockchain Stop thread 1, round 0
+2021-12-10 22:21:00.499 MSK [INFO    ] blockchain Round 0 end, Hash rate 2106.962 kH/s
+2021-12-10 22:21:00.499 MSK [DEBUG   ] blockchain Start thread 4, round 1
+2021-12-10 22:21:47.369 MSK [DEBUG   ] blockchain Stop thread 4, round 1
+2021-12-10 22:21:47.369 MSK [DEBUG   ] blockchain Start thread 1, round 2
+2021-12-10 22:21:47.455 MSK [DEBUG   ] blockchain Stop thread 3, round 1
+2021-12-10 22:21:47.455 MSK [DEBUG   ] blockchain Start thread 2, round 2
+2021-12-10 22:21:47.530 MSK [DEBUG   ] blockchain Stop thread 2, round 1
+2021-12-10 22:21:47.530 MSK [DEBUG   ] blockchain Start thread 3, round 2
+2021-12-10 22:21:47.688 MSK [DEBUG   ] blockchain Stop thread 1, round 1
+2021-12-10 22:21:47.689 MSK [INFO    ] blockchain Round 1 end, Hash rate 2103.407 kH/s
+2021-12-10 22:21:47.689 MSK [DEBUG   ] blockchain Start thread 4, round 2
+2021-12-10 22:22:34.498 MSK [DEBUG   ] blockchain Stop thread 4, round 2
+2021-12-10 22:22:34.499 MSK [DEBUG   ] blockchain Start thread 1, round 3
+2021-12-10 22:22:34.719 MSK [DEBUG   ] blockchain Stop thread 3, round 2
+2021-12-10 22:22:34.719 MSK [DEBUG   ] blockchain Start thread 2, round 3
+2021-12-10 22:22:34.844 MSK [DEBUG   ] blockchain Stop thread 2, round 2
+2021-12-10 22:22:34.844 MSK [DEBUG   ] blockchain Start thread 3, round 3
+2021-12-10 22:22:35.093 MSK [DEBUG   ] blockchain Stop thread 1, round 2
+2021-12-10 22:22:35.093 MSK [INFO    ] blockchain Round 2 end, Hash rate 2095.387 kH/s
+2021-12-10 22:22:35.093 MSK [DEBUG   ] blockchain Start thread 4, round 3
+2021-12-10 22:23:21.709 MSK [DEBUG   ] blockchain Stop thread 4, round 3
+2021-12-10 22:23:21.709 MSK [DEBUG   ] blockchain Start thread 1, round 4
+2021-12-10 22:23:21.750 MSK [DEBUG   ] blockchain Stop thread 3, round 3
+2021-12-10 22:23:21.750 MSK [DEBUG   ] blockchain Start thread 2, round 4
+2021-12-10 22:23:21.884 MSK [DEBUG   ] blockchain Stop thread 2, round 3
+2021-12-10 22:23:21.884 MSK [DEBUG   ] blockchain Start thread 3, round 4
+2021-12-10 22:23:22.412 MSK [DEBUG   ] blockchain Stop thread 1, round 3
+2021-12-10 22:23:22.412 MSK [INFO    ] blockchain Round 3 end, Hash rate 2087.083 kH/s
+2021-12-10 22:23:22.412 MSK [DEBUG   ] blockchain Start thread 4, round 4
+2021-12-10 22:24:08.589 MSK [DEBUG   ] blockchain Stop thread 4, round 4
+2021-12-10 22:24:08.589 MSK [DEBUG   ] blockchain Start thread 1, round 5
+2021-12-10 22:24:08.942 MSK [DEBUG   ] blockchain Stop thread 3, round 4
+2021-12-10 22:24:08.942 MSK [DEBUG   ] blockchain Start thread 2, round 5
+2021-12-10 22:24:09.040 MSK [DEBUG   ] blockchain Stop thread 2, round 4
+2021-12-10 22:24:09.040 MSK [DEBUG   ] blockchain Start thread 3, round 5
+2021-12-10 22:24:09.880 MSK [DEBUG   ] blockchain Stop thread 1, round 4
+2021-12-10 22:24:09.880 MSK [INFO    ] blockchain Round 4 end, Hash rate 2075.972 kH/s
+...
+2021-12-10 23:14:06.049 MSK [INFO    ] blockchain Round 67 end, Hash rate 1847.345 kH/s
+2021-12-10 23:14:06.049 MSK [DEBUG   ] blockchain Start thread 4, round 68
+2021-12-10 23:14:47.051 MSK [DEBUG   ] blockchain Stop thread 4, round 68
+2021-12-10 23:14:47.051 MSK [DEBUG   ] blockchain Start thread 1, round 69
+2021-12-10 23:14:51.090 MSK [DEBUG   ] blockchain Stop thread 3, round 68
+2021-12-10 23:14:51.090 MSK [DEBUG   ] blockchain Start thread 2, round 69
+2021-12-10 23:14:51.666 MSK [DEBUG   ] blockchain Stop thread 2, round 68
+2021-12-10 23:14:51.666 MSK [DEBUG   ] blockchain Start thread 3, round 69
+2021-12-10 23:14:53.611 MSK [DEBUG   ] blockchain Stop thread 1, round 68
+2021-12-10 23:14:53.611 MSK [INFO    ] blockchain Round 68 end, Hash rate 1842.693 kH/s
+2021-12-10 23:14:53.611 MSK [DEBUG   ] blockchain Start thread 4, round 69
+2021-12-10 23:15:34.654 MSK [DEBUG   ] blockchain Stop thread 4, round 69
+2021-12-10 23:15:34.654 MSK [DEBUG   ] blockchain Start thread 1, round 70
+2021-12-10 23:15:38.843 MSK [DEBUG   ] blockchain Stop thread 3, round 69
+2021-12-10 23:15:38.844 MSK [DEBUG   ] blockchain Start thread 2, round 70
+2021-12-10 23:15:39.117 MSK [DEBUG   ] blockchain Stop thread 2, round 69
+2021-12-10 23:15:39.118 MSK [DEBUG   ] blockchain Start thread 3, round 70
+2021-12-10 23:15:41.586 MSK [DEBUG   ] blockchain Stop thread 1, round 69
+2021-12-10 23:15:41.586 MSK [INFO    ] blockchain Round 69 end, Hash rate 1833.695 kH/s
+2021-12-10 23:15:41.586 MSK [DEBUG   ] blockchain Start thread 4, round 70
+2021-12-10 23:16:22.045 MSK [DEBUG   ] blockchain Stop thread 4, round 70
+2021-12-10 23:16:22.045 MSK [DEBUG   ] blockchain Start thread 1, round 71
+2021-12-10 23:16:26.540 MSK [DEBUG   ] blockchain Stop thread 3, round 70
+2021-12-10 23:16:26.540 MSK [DEBUG   ] blockchain Start thread 2, round 71
+2021-12-10 23:16:27.006 MSK [DEBUG   ] blockchain Stop thread 2, round 70
+2021-12-10 23:16:27.006 MSK [DEBUG   ] blockchain Start thread 3, round 71
+2021-12-10 23:16:29.122 MSK [DEBUG   ] blockchain Stop thread 1, round 70
+2021-12-10 23:16:29.122 MSK [INFO    ] blockchain Round 70 end, Hash rate 1835.936 kH/s
+2021-12-10 23:16:29.122 MSK [DEBUG   ] blockchain Start thread 4, round 71
+2021-12-10 23:16:36.700 MSK [INFO    ] blockchain Success "Начальное значение![JBYW" hash: 00000000331cb4111b0fb7fff9a9014aa45376e25b59516ff57e0789f86d98ce Hash rate 2122.755 kH/s

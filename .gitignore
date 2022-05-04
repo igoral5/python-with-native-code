@@ -1,0 +1,8 @@
+/.idea/
+__pycache__
+/build/
+/debug.py
+/mining.cpython-39-x86_64-linux-gnu.so
+/mining.egg-info/
+/mining.s
+
